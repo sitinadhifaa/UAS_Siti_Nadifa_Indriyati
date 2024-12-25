@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "676c53f52171e96d3c4eeb89"
+  },
+  "noid": "554",
+  "fname": "lee",
+  "mname": "hee",
+  "lname": "sung",
+  "umur": "24",
+  "jeniskelamin": "laki-laki"
+},
+{
+  "_id": {
+    "$oid": "676c54172171e96d3c4eeb8a"
+  },
+  "noid": "557",
+  "fname": "kim",
+  "mname": "ye",
+  "lname": "ri",
+  "umur": "30",
+  "jeniskelamin": "perempuan"
+}]

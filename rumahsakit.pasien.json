@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "676c53482171e96d3c4eeb86"
+  },
+  "noid": "001",
+  "fname": "lili",
+  "mname": "",
+  "lname": "kiki",
+  "umur": "23",
+  "pasien": "jantung"
+},
+{
+  "_id": {
+    "$oid": "676c53772171e96d3c4eeb87"
+  },
+  "noid": "003",
+  "fname": "sri",
+  "mname": "mimi",
+  "lname": "lolo",
+  "umur": "40",
+  "pasien": "ginjal"
+},
+{
+  "_id": {
+    "$oid": "676c53a32171e96d3c4eeb88"
+  },
+  "noid": "006",
+  "fname": "wati",
+  "mname": "",
+  "lname": "",
+  "umur": "56",
+  "pasien": "paru-paru"
+}]

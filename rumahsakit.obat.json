@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "676c54802171e96d3c4eeb8b"
+  },
+  "kode": "447",
+  "nama": "paracetamol",
+  "bentuk": "pil",
+  "stok": "54",
+  "expireddate": "12-23-2020"
+},
+{
+  "_id": {
+    "$oid": "676c54862171e96d3c4eeb8c"
+  },
+  "kode": "447",
+  "nama": "paracetamol",
+  "bentuk": "pil",
+  "stok": "54",
+  "expireddate": "12-23-2020"
+}]
