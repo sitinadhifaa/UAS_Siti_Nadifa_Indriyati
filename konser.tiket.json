@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "676c26cc7d50b6d92b4eeb88"
+  },
+  "notiket": "321",
+  "level": "vip"
+},
+{
+  "_id": {
+    "$oid": "676c26cc7d50b6d92b4eeb89"
+  },
+  "notiket": "123",
+  "level": "normal"
+}]

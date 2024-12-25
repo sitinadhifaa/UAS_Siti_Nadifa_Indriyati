@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "676c28957d50b6d92b4eeb8c"
+  },
+  "noid": "1123",
+  "fname": "haha",
+  "mname": "hihi",
+  "lname": "huhu",
+  "jabatan": "staf dekorasi",
+  "status": "tetap"
+},
+{
+  "_id": {
+    "$oid": "676c28957d50b6d92b4eeb8d"
+  },
+  "noid": "1132",
+  "fname": "juju",
+  "mname": "",
+  "lname": "kiki",
+  "jabatan": "staf penata lampu",
+  "status": "magang"
+}]

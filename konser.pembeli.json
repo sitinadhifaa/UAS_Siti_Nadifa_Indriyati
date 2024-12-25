@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "676c27cd7d50b6d92b4eeb8a"
+  },
+  "noid": "445",
+  "fname": "dewi",
+  "mname": "",
+  "lname": "war",
+  "age": "17",
+  "email": "dewi@gmail.com",
+  "notelp": "085255554444"
+},
+{
+  "_id": {
+    "$oid": "676c27cd7d50b6d92b4eeb8b"
+  },
+  "noid": "665",
+  "fname": "heli",
+  "mname": "",
+  "lname": "kopter",
+  "age": "45",
+  "email": "lili@gmail.com",
+  "notelp": "085765659494"
+}]
