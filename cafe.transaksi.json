@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "676c4e257d50b6d92b4eeb94"
+  },
+  "notransaksi": "004",
+  "barang": "roti",
+  "jumlah": "2",
+  "pembayaran": "tunai",
+  "nominal": "120.000"
+},
+{
+  "_id": {
+    "$oid": "676c4e257d50b6d92b4eeb95"
+  },
+  "notransaksi": "006",
+  "barang": "kopi",
+  "jumlah": "9",
+  "nominal": "400.000"
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "676c4da47d50b6d92b4eeb91"
+  },
+  "noid": "887",
+  "fname": "lili",
+  "mname": "",
+  "lname": "sudria",
+  "umur": "19",
+  "status": "magang",
+  "jabatan": "kasir"
+},
+{
+  "_id": {
+    "$oid": "676c4da47d50b6d92b4eeb92"
+  },
+  "noid": "554",
+  "fname": "lulu",
+  "mname": "lolo",
+  "lname": "lee",
+  "umur": "20",
+  "status": "tetap",
+  "jabatan": "admin"
+},
+{
+  "_id": {
+    "$oid": "676c4da47d50b6d92b4eeb93"
+  },
+  "noid": "221",
+  "fname": "kiki",
+  "mname": "jiji",
+  "lname": "lolo",
+  "umur": "25",
+  "status": "magang",
+  "jabatan": "admin"
+}]

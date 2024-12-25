@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "676c4c7b7d50b6d92b4eeb8e"
+  },
+  "noid": "001",
+  "nama": "roti",
+  "rasa": "cokelat",
+  "jumlah": "9"
+},
+{
+  "_id": {
+    "$oid": "676c4c7b7d50b6d92b4eeb8f"
+  },
+  "noid": "002",
+  "nama": "kopi",
+  "rasa": "latte",
+  "jumlah": "87"
+},
+{
+  "_id": {
+    "$oid": "676c4c7b7d50b6d92b4eeb90"
+  },
+  "noid": "003",
+  "nama": "milkshake",
+  "rasa": "strawberry",
+  "jumlah": "32"
+}]
